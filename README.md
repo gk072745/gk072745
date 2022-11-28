@@ -19,13 +19,13 @@
 <br />
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&for-the-badge&logo=react-router&logoColor=white)&nbsp;
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)&nbsp; 
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)&nbsp;
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&for-the-badge&logo=redux&logoColor=white)&nbsp; 
+![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&for-the-badge&logo=chakraui&logoColor=white)&nbsp;
 <br />
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)&nbsp;
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&for-the-badge&logo=heroku&logoColor=white)&nbsp;
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&for-the-badge&logo=netlify&logoColor=#00C7B7)&nbsp;
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&for-the-badge&logo=vercel&logoColor=white)&nbsp;
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&for-the-badge&logo=npm&logoColor=white)&nbsp;
 <br />
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
