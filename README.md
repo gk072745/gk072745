@@ -18,3 +18,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=gk072745&icon=2&color=0)](https://visitcount.itsvg.in)
 
+ <br />
+ 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gk072745&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
