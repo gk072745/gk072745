@@ -1,4 +1,8 @@
-<div><h1 align="center"> Hi 👋, I'm Govind Kumawat</h1></div>
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Govind Kumawat;
+
+* I'm a Software Developer from India
+* I love building tech, teaching and learning new technologies
+* I love playing chess
 <hr>
 
 
