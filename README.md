@@ -36,12 +36,18 @@
 ![](https://github-readme-stats.vercel.app/api?username=gk072745&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gk072745&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gk072745&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <img img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gk072745&theme=radical" height="220px" width="70%"/>
+  
 
+
+
+  
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gk072745&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
 
  <br />
+ <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
  
   
