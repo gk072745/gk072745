@@ -44,4 +44,4 @@
 
  <br />
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gk072745&bg_color=00000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+  
