@@ -8,9 +8,10 @@
 <li>
  I'm a Software Developer from Rajasthan
 </li>
-</h3>
 <li>I love building tech, teaching and learning new technologies</li>
 <li>I love playing chess</li>
+</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 
