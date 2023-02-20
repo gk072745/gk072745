@@ -5,11 +5,17 @@
 
 <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Govind Kumawat</h1>
 
+<h3>
 <li>
  I'm a Software Developer from Rajasthan
 </li>
+</h3>
+<h4>
 <li>I love building tech, teaching and learning new technologies</li>
+</h4>
+<h5>
 <li>I love playing chess</li>
+</h5>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 
