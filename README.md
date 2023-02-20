@@ -3,14 +3,12 @@
 [![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://kumawatgovind222@gmail.com)
 
 
-<h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">, I'm Govind Kumawat</h1>
-<h3><li>
+<h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Govind Kumawat</h1>
+<li>
  I'm a Software Developer from Rajasthan
-</li></h3>
-<h3><li>I love building tech, teaching and learning new technologies</li></h3>
-<h3><li>I love playing cricket & chess</li></h3>
-
-
+</li>
+<li>I love building tech, teaching and learning new technologies</li>
+<li>I love playing chess</li>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 
@@ -22,7 +20,6 @@
 <p align="left"> <a href="https://twitter.com/Govind_Kumawat" target="blank"><img src="https://img.shields.io/twitter/follow/Govind?logo=twitter&style=for-the-badge" alt="Govind_Kumawat" /></a> </p> 
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gk072745) 
- 
 [![](https://visitcount.itsvg.in/api?id=gk072745&icon=2&color=0)](https://visitcount.itsvg.in)
 
 
