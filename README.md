@@ -18,14 +18,14 @@
 <p>
   
 <a href="https://linkedin.com/in/gk072745" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gk072745" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gk072745" height="40" width="40" />
  </a>
   
 <a href="https://twitter.com/govind_kumawat" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="govind_kumawat" height="40" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="govind_kumawat" height="30" width="40" />
   </a>
   <a href="mailto:kumawatgovind222@gmail.com" target="_blank">
-        <img src="https://akm-img-a-in.tosshub.com/businesstoday/images/story/201904/gmail-660_040119014433.jpg" alt="gmail" title="kumawatgovind222@gmail.com" height="40" width="40" />
+        <img src="https://akm-img-a-in.tosshub.com/businesstoday/images/story/201904/gmail-660_040119014433.jpg" alt="gmail" title="kumawatgovind222@gmail.com" height="30" width="40" />
  </a>
 </p>
 
