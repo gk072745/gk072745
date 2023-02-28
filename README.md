@@ -25,7 +25,7 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="govind_kumawat" height="30" width="40" />
   </a>
   <a href="mailto:kumawatgovind222@gmail.com" target="_blank">
-        <img src="https://akm-img-a-in.tosshub.com/businesstoday/images/story/201904/gmail-660_040119014433.jpg" alt="gmail" title="kumawatgovind222@gmail.com" width="30" height="30"/>
+        <img src="https://akm-img-a-in.tosshub.com/businesstoday/images/story/201904/gmail-660_040119014433.jpg" alt="gmail" title="kumawatgovind222@gmail.com" width="40" height="30"/>
  </a>
 </p>
 
