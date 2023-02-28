@@ -18,7 +18,7 @@
 <p>
   
 <a href="https://linkedin.com/in/gk072745" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gk072745" height="40" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gk072745" height="20" width="40" />
  </a>
   
 <a href="https://twitter.com/govind_kumawat" target="_blank">
