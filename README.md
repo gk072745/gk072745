@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/larrymahumot/larrymahumot/main/networking.gif">
 
-<p align="left"> <a href="https://twitter.com/Govind_Kumawat" target="blank"><img src="https://img.shields.io/twitter/follow/govind_kumawat?logo=twitter&style=for-the-badge" alt="govind_kumawat" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Govind__Kumawat" target="blank"><img src="https://img.shields.io/twitter/follow/Govind_Kumawat?logo=twitter&style=for-the-badge" alt="Govind__kumawat" /></a> </p>
 
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJs, NodeJs, Express, MongoDB, Mongoose, REST_API, Git & Bash**
 
