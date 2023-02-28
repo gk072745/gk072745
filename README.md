@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **While sleeping my mind is Debugging my code..**
 
-<h3 align="left" height="30">📞 Get in touch:</h3>
+<h3 align="left">📞 Get in touch:</h3>
 <p>
   
 <a href="https://linkedin.com/in/gk072745" target="_blank">
