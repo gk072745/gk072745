@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/gk072745" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gk072745" height="30" width="40" /></a>&nbsp;
 <a href="https://twitter.com/govind_kumawat" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="govind_kumawat" height="30" width="40" /></a>&nbsp;
   <a href="mailto:kumawatgovind222@gmail.com" target="_blank">
-        <img src="https://akm-img-a-in.tosshub.com/businesstoday/images/story/201904/gmail-660_040119014433.jpg?size=1200:675" alt="gmail" title="fitnexy@gmail.com" width="30" height="30"/>
+        <img src="https://akm-img-a-in.tosshub.com/businesstoday/images/story/201904/gmail-660_040119014433.jpg?size=1200:675" alt="gmail" title="kumawatgovind222@gmail.com" width="30" height="30"/>
     </a>
 </p>
 
