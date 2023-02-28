@@ -15,7 +15,7 @@
 - ⚡ Fun fact **While sleeping my mind is Debugging my code..**
 
 <h3 align="left">📞 Get in touch:</h3>
-<p align="left" justify="center">
+
   
 <a href="https://linkedin.com/in/gk072745" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gk072745" height="30" width="40" />
@@ -25,9 +25,9 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="govind_kumawat" height="30" width="40" />
   </a>
   <a href="mailto:kumawatgovind222@gmail.com" target="_blank">
-        <img src="https://akm-img-a-in.tosshub.com/businesstoday/images/story/201904/gmail-660_040119014433.jpg?size=1200:675" alt="gmail" title="kumawatgovind222@gmail.com" width="30" height="30"/>
+        <img src="https://akm-img-a-in.tosshub.com/businesstoday/images/story/201904/gmail-660_040119014433.jpg" alt="gmail" title="kumawatgovind222@gmail.com" width="30" height="30"/>
     </a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
