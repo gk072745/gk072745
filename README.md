@@ -50,7 +50,7 @@
 <h2 align="center">📊 My Github Stats</h2>
          <br/>   
           <p align="center">      
-        <img alt="gk072745 Top Languages"  src='https://github-readme-stats.vercel.app/api/top-langs/?username=gk072745&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117' />
+        <img alt="gk072745 Top Languages"  src='https://github-readme-stats.vercel.app/api/top-langs/?username=gk072745&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117' >
             </p>      
            <br/>
          <p align="center">
